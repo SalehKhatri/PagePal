@@ -1,6 +1,7 @@
-# My React App
+# PagePal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Develop a React application allowing users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
+
 
 ## Setup
 
